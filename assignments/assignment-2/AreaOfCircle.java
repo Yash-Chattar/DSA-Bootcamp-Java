@@ -14,3 +14,4 @@ public class AreaOfCircle {
         System.out.println(area + " is the area of circle.");
     }
 }
+// Added this comment for today's practice
